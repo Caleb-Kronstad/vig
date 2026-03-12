@@ -1,0 +1,18 @@
+[submodule "Dependencies/soil"]
+	path = Dependencies/soil
+	url = git@github.com:Caleb-Kronstad/soil
+[submodule "Dependencies/imgui"]
+	path = Dependencies/imgui
+	url = git@github.com:Caleb-Kronstad/imgui
+[submodule "Dependencies/glad"]
+	path = Dependencies/glad
+	url = git@github.com:Caleb-Kronstad/glad
+[submodule "Dependencies/glfw"]
+	path = Dependencies/glfw
+	url = git@github.com:Caleb-Kronstad/glfw
+[submodule "Dependencies/json"]
+	path = Dependencies/json
+	url = git@github.com:Caleb-Kronstad/json
+[submodule "Dependencies/miniaudio"]
+	path = Dependencies/miniaudio
+	url = git@github.com:Caleb-Kronstad/miniaudio
